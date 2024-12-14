@@ -1,4 +1,4 @@
-# Basic Algorithm
+# Basic Algorithm 基础算法
 By - DecemberFox
 
 The Basic Algorithm Repository of OIer.
@@ -9,7 +9,7 @@ I'll keep updating.
 
 我将会持续更新。
 
-## directory 目录
+## Directory 目录
 
 - Algorithm 算法
   - High Accuracy Algorithm 高精度算法
@@ -20,8 +20,8 @@ I'll keep updating.
   - Divide and Conquer 分治算法
   - Dynamic Programming 动态规划
 
-## the links
+## The Links
 
-Luogu uid : 298529
+Luogu UID : 298529
 
 Bilibili : 1237543142
